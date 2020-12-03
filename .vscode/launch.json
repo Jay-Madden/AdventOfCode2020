@@ -13,6 +13,14 @@
             "console": "integratedTerminal"
         },
         {
+            "name": "Day2",
+            "type": "python",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/day2",
+            "program": "${workspaceFolder}/day2/password_philosophy.py",
+            "console": "integratedTerminal"
+        },
+        {
             "name": "Day3",
             "type": "python",
             "request": "launch",
