@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Day1",
+            "type": "python",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/day1",
+            "program": "${workspaceFolder}/day1/report_repair.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Day3",
+            "type": "python",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/day3",
+            "program": "${workspaceFolder}/day3/tobbogan_trajectory.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
