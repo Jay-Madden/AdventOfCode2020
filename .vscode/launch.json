@@ -27,6 +27,14 @@
             "cwd": "${workspaceFolder}/day3",
             "program": "${workspaceFolder}/day3/tobbogan_trajectory.py",
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Day4",
+            "type": "python",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/day4",
+            "program": "${workspaceFolder}/day4/passport_processing.py",
+            "console": "integratedTerminal"
         }
     ]
 }
