@@ -35,6 +35,14 @@
             "cwd": "${workspaceFolder}/day4",
             "program": "${workspaceFolder}/day4/passport_processing.py",
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Day5",
+            "type": "python",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/day5",
+            "program": "${workspaceFolder}/day5/binary_boarding.py",
+            "console": "integratedTerminal"
         }
     ]
 }
