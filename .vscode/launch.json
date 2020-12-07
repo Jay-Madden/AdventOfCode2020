@@ -43,6 +43,22 @@
             "cwd": "${workspaceFolder}/day5",
             "program": "${workspaceFolder}/day5/binary_boarding.py",
             "console": "integratedTerminal"
-        }
+        },
+        {
+            "name": "Day6",
+            "type": "python",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/day6",
+            "program": "${workspaceFolder}/day6/custom_customs.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Day7",
+            "type": "python",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/day7",
+            "program": "${workspaceFolder}/day7/handy_haversacks.py",
+            "console": "integratedTerminal"
+        },
     ]
 }
