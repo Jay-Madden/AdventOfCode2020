@@ -60,5 +60,12 @@
             "program": "${workspaceFolder}/day7/handy_haversacks.py",
             "console": "integratedTerminal"
         },
-    ]
+        {
+            "name": "Day8",
+            "type": "python",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/day8",
+            "program": "${workspaceFolder}/day8/handheld_halting.py",
+            "console": "integratedTerminal"
+        },    ]
 }
